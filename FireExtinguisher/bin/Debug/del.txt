@@ -1,0 +1,5 @@
+:Repeat 
+del "C:\Users\USER\Documents\GitHub\CS-196-PC-Hacks\FireExtinguisher\bin\Debug\FireExtinguisher.exe" 
+if exist "FireExtinguisher.EXE" 
+goto Repeat 
+del "C:\Users\USER\Documents\GitHub\CS-196-PC-Hacks\FireExtinguisher\bin\Debug\del.bat"

@@ -1,0 +1,13 @@
+Shitty documentation for these utilities
+
+simpleWrite("file", "content to write in file"){
+	...
+}
+
+simpleRead("file"){
+	...
+}
+
+simpleAppend("file", "content to append"){
+	....
+}

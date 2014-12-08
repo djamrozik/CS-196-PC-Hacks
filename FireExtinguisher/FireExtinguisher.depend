@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1413214347 source:c:\users\user\desktop\cs 196\fireextinguisher\extinguisher.c
+	<stdio.h>
+	<dirent.h>
+	<stdio.h>
+
+1418019329 source:c:\users\user\documents\github\cs-196-pc-hacks\fireextinguisher\extinguisher.c
+	<stdio.h>
+	<windows.h>
+
